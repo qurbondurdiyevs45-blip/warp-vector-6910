@@ -1,0 +1,15 @@
+{
+  "name": "warp-vector-6910",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 8374,
+    "createdAt": "2026-09-11T12:59:12.164Z"
+  }
+}
